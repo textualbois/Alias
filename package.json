@@ -1,4 +1,5 @@
 {
+  "type":"module",
   "name": "alias_telegram_bot",
   "version": "1.0.0",
   "description": "downloads cambridge dictionary with translations for alias telegram bot game",
@@ -14,6 +15,7 @@
   "license": "ISC",
   "dependencies": {
     "clipboardy": "^3.0.0",
+    "dotenv": "^16.0.2",
     "fs": "^0.0.1-security",
     "puppeteer": "^17.1.3"
   }
